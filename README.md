@@ -1,6 +1,6 @@
 <include
 (https://app.circleci.com/pipelines/github/phat181999/uda-project4),
-(https://app.circleci.com/pipelines/github/phat181999/uda-project4/8/workflows/222b2c21-c211-4a45-8d65-fba8e35a65f7>
+CircleCI status badge(https://circleci.com/gh/phat181999/uda-project4.svg?style=svg>
 
 Requirements
 Python 3.10
@@ -30,3 +30,8 @@ you can check if the image already build using: curl localhost:{`yourport`} or u
 running CI/CD via file config.yml: CircleCI configuration file.
 
 running CI on branch circleci-project-setup
+
+Install hadolint & Minikube
+
+wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
+ chmod +x /bin/hadolint
