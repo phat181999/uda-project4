@@ -1,6 +1,7 @@
 <include
 (https://app.circleci.com/pipelines/github/phat181999/uda-project4),
-CircleCI status badge(https://circleci.com/gh/phat181999/uda-project4.svg?style=svg
+CircleCI status badge(
+https://circleci.com/gh/phat181999/uda-project4.svg?style=svg
 
 >
 
