@@ -1,1 +1,18 @@
-<paste log output from Kubernetes-mediated prediction, here>
+Error from server (AlreadyExists): pods "projectfour" already exists
+NAME          READY   STATUS    RESTARTS      AGE
+projectfour   1/1     Running   1 (17m ago)   9h
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+
+(.devops) ubuntu@ip-172-31-1-145:~/uda-project4$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "projectfour" already exists
+NAME          READY   STATUS    RESTARTS      AGE
+projectfour   1/1     Running   1 (17m ago)   9h
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
