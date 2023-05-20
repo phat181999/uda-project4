@@ -1,6 +1,6 @@
 <include
-(https://app.circleci.com/pipelines/github/phat181999/uda-project4?branch=circleci-project-setup),
-(https://app.circleci.com/pipelines/github/phat181999/uda-project4/3/workflows/f814507f-416f-414f-a345-5e87a15afede/jobs/3)>
+(https://app.circleci.com/pipelines/github/phat181999/uda-project4),
+(https://app.circleci.com/pipelines/github/phat181999/uda-project4/8/workflows/222b2c21-c211-4a45-8d65-fba8e35a65f7>
 
 Requirements
 Python 3.10
