@@ -5,10 +5,6 @@ https://circleci.com/gh/phat181999/uda-project4.svg?style=svg
 
 >
 
-(https://app.circleci.com/pipelines/github/phat181999/uda-project4)
-
-(https://app.circleci.com/pipelines/github/phat181999/uda-project4/7/workflows/feb67bee-19fa-4e43-a6f2-d27a6581b93d/jobs/7)
-
 Requirements
 Python 3.10
 
